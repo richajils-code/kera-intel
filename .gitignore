@@ -1,4 +1,6 @@
-data/
-*.csv
-*.parquet
 venv/
+__pycache__/
+.streamlit/
+.DS_Store
+*.pyc
+models/*.pkl
